@@ -14,7 +14,7 @@ I am a B.Tech graduate specialized in Computer Science and Engineering from Indi
 <a href="https://fb.com/shariq khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shariq khan" height="30" width="40" /></a>
 <a href="https://instagram.com/faiz_khan_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faiz_khan_31" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shariq31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shariq31" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mohd shariq khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@mohd shariq khan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@faiz31415faiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@mohd shariq khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
